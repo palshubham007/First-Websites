@@ -1,7 +1,9 @@
 import os 
 
-print(os.path())
+print (os.getcwd)
 
-print("successfully added the Path .")
+print(os.close())
 
-print("code exucute by Experts")
+print("excuetion by experts")
+
+print(os.chdir("/"))
